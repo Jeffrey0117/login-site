@@ -2,6 +2,10 @@
 
 響應式的註冊/登入頁面，具備完整表單驗證功能。
 
+## DEMO
+
+[here](https://jeffrey0117.github.io/login-site/)
+
 ## 技術棧
 
 - HTML5 + CSS3 + JavaScript
